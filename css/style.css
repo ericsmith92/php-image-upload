@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#page-wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#form-container{
+    width: 20%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px dashed black;
+}
+
+#form-container--submit{
+    margin-top: 20px;
+}
